@@ -1,0 +1,26 @@
+{
+  "name": "objectMotherTalk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LambertoLemosDev/objectMotherTalk.git"
+  },
+  "keywords": [],
+  "author": "Lamberto Lemos Portal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LambertoLemosDev/objectMotherTalk/issues"
+  },
+  "homepage": "https://github.com/LambertoLemosDev/objectMotherTalk#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.2",
+    "typescript": "^5.4.5"
+  }
+}
